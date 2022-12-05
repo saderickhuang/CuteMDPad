@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>default.md</file>
+        <file>index.html</file>
+        <file>modest.css</file>
+        <file>marked.js</file>
+        <file>marked.min.js</file>
+        <file>markdown2.css</file>
+        <file>markdown3.css</file>
+    </qresource>
+    <qresource prefix="/3rd"/>
+</RCC>
