@@ -50,6 +50,3 @@ compile_commands.json
 
 # QtCreator local machine specific files for imported projects
 *creator.user*
-
-!qscintilla2_qt6.dll
-!qscintilla2_qt6d.dll
