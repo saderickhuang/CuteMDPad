@@ -16,6 +16,7 @@ CONFIG(debug, debug|release) {
 SOURCES += \
     main.cpp \
     mainwindow.cpp \
+    mdcommons.cpp \
     settings.cpp \
     webviewcontent.cpp
 
@@ -74,6 +75,7 @@ HEADERS += \
     Qsci/qscistyle.h \
     Qsci/qscistyledtext.h \
     mainwindow.h \
+    mdcommons.h \
     settings.h \
     webviewcontent.h
 

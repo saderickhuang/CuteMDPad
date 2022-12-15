@@ -7,6 +7,8 @@
         <file>marked.min.js</file>
         <file>markdown2.css</file>
         <file>markdown3.css</file>
+        <file>monokai.min.css</file>
+        <file>highlight.js</file>
     </qresource>
     <qresource prefix="/3rd"/>
 </RCC>

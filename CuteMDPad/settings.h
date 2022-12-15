@@ -2,11 +2,9 @@
 #define SETTINGS_H
 
 #include <qfont.h>
-#include <QObject>
 
-class Settings : public QObject
+class Settings
 {
-    Q_OBJECT
 public:
     Settings();
 private:
